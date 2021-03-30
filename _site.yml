@@ -2,7 +2,7 @@ name: "gpesquisa"
 title: "GPPDEO - Data Science e Gestão"
 description: |
   Grupo de Pesquisa
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   logo:
     image: images/logo.jpg
