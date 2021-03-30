@@ -1,0 +1,30 @@
+---
+title: "Bem vindos"
+description: |
+  Sejam bem vindos ao nosso blog!
+author:
+  - name: Prof. Tadeu Gomes Teixeira 
+    url: https://tadeuteixeira.netlify.app/
+    affiliation: Universidade Federal do Maranhão
+    affiliation_url: www.ufma.br
+date: 03-28-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+Sejam bem vindos ao nosso blog!
+
+Usaremos esse espaço para compartilhar informações sobre as atividades do grupo de pesquisa como ensino, projetos de extensão, dicas e como a ciência de dados está sendo usada para impulsionar e aperfeiçoar atividades de gestão.
+
+Fiquem à vontade nesta nova casa!
+
+![](https://media.giphy.com/media/409q1dSLmlVwEWRFH6/giphy.gif)

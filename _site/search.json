@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Informações sobre o grupo",
+      "description": "Qual nosso propósito?",
+      "author": [],
+      "contents": "\nO GPPDEO-Data Science e Gestão tem como foco a realização de pesquisas e projetos de extensão nas áreas de ciência de dados e gestão organizacional, mapenado o estado da arte das ferramentas de gestão adotadas pelas corporações e suas repercurssões empresariais e sociais.\nO Grupo está cadastrado no Diretório de Grupos do CnPQ, onde podem ser consultados os estudantes , membros vinculados e demais informações institucionais.\n\n\n\n",
+      "last_modified": "2021-03-29T17:44:32-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "GPPDEO",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-29T21:56:59-03:00"
+    },
+    {
+      "path": "temas.html",
+      "title": "Temas de Interesse",
+      "description": "Áreas que priorizamos ",
+      "author": [],
+      "contents": "\nCiência de Dados Aplicada à Gestão\nTem como foco identificar como as ferramentas de Data Science estão a ser adotadas em organizações públicas e privadas para resolver problemas de negócio.\nData Science e Setor Portuário\nPesquisas, consultorias e atividades na área.\nPeople Analytics\nPesquisas, consultorias e atividades na área.\nMarketing Analytics\nPesquisas, consultorias e atividades na área.\nNovas Tecnologias, Mercado e Sociedade\nLinha com interesse de análise na relação entre as tecnologias da “Indústria 4.0” e seus impactos nos negócios, mercados, sociedade e política, bem como as respectivas políticas públicas de fomento à inovação.\n\n\n\n",
+      "last_modified": "2021-03-29T17:44:04-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

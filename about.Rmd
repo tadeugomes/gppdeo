@@ -1,0 +1,12 @@
+---
+title: "Informações sobre o grupo"
+description: Qual nosso propósito?
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+O *GPPDEO-Data Science e Gestão* tem como foco a realização de pesquisas e projetos de extensão nas áreas de ciência de dados e gestão organizacional, mapenado o estado da arte das ferramentas de gestão adotadas pelas corporações e suas repercurssões empresariais e sociais.
+
+O Grupo está cadastrado no [Diretório de Grupos do CnPQ](http://dgp.cnpq.br/dgp/espelhogrupo/1066121816480282#linhaPesquisa), onde podem ser consultados os estudantes , membros vinculados e demais informações institucionais.

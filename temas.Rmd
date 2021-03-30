@@ -1,0 +1,29 @@
+---
+title: "Temas de Interesse"
+description: |
+  Áreas que priorizamos 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Ciência de Dados Aplicada à Gestão 
+
+Tem como foco identificar como as ferramentas de Data Science estão a ser adotadas em organizações públicas e privadas para resolver problemas de negócio.
+
+### Data Science e Setor Portuário 
+
+Pesquisas, consultorias e atividades na área. 
+
+### People Analytics 
+
+Pesquisas, consultorias e atividades na área. 
+
+### Marketing Analytics 
+
+Pesquisas, consultorias e atividades na área. 
+
+# Novas Tecnologias, Mercado e Sociedade
+
+Linha com interesse de análise na relação entre as tecnologias da "Indústria 4.0" e seus impactos nos negócios, mercados, sociedade e política, bem como as respectivas políticas públicas de fomento à inovação.
