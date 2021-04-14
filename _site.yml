@@ -13,4 +13,9 @@ navbar:
       href: about.html
     - text: "Temas de Interesse"
       href: temas.html
+base_url: https://gppdeo.org
+collections:
+  posts:
+    disqus: GPPDEO
+    share: [twitter, linkedin]
 output: distill::distill_article

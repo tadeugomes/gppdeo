@@ -2,8 +2,9 @@
 title: "Bem vindos"
 description: |
   Sejam bem vindos ao nosso blog!
+preview: preview.jpg
 author:
-  - name: Prof. Tadeu Gomes Teixeira 
+  - name: Tadeu Gomes Teixeira 
     url: https://tadeuteixeira.netlify.app/
     affiliation: Universidade Federal do Maranhão
     affiliation_url: www.ufma.br

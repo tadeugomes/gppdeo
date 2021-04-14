@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>GPPDEO - Data Science e Gestão</title>
+    <link>https://gppdeo.org</link>
+    <atom:link href="https://gppdeo.org/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Grupo de Pesquisa
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Desemprego no Maranhão</title>
+      <dc:creator>Tadeu Gomes Teixeira</dc:creator>
+      <link>https://gppdeo.org/posts/2021-04-13-desemprego-no-maranho</link>
+      <description>Rápido olhar sobre o mercado de trabalho maranhense</description>
+      <guid>https://gppdeo.org/posts/2021-04-13-desemprego-no-maranho</guid>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://gppdeo.org/posts/2021-04-13-desemprego-no-maranho/desemprego-no-maranho_files/figure-html5/unnamed-chunk-3-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Bem vindos</title>
+      <dc:creator>Tadeu Gomes Teixeira</dc:creator>
+      <link>https://gppdeo.org/posts/welcome</link>
+      <description>Sejam bem vindos ao nosso blog!</description>
+      <guid>https://gppdeo.org/posts/welcome</guid>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://gppdeo.org/posts/welcome/preview.jpg" medium="image" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
