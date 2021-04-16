@@ -81,8 +81,9 @@ taxa<-dados %>%
 
 
 taxa$Trimestre <- factor(taxa$Trimestre, levels = taxa$Trimestre[order(taxa$Trimestres)])
-ggplot(taxa, aes(x=Trimestre, y=Valor, group = 1))+ 
-  geom_line()+ 
+
+ggplot(data = na.omit(taxa), aes(x=Trimestre, y=Valor, group = 1))+
+  geom_line()+
   xlab('')+ylab('Taxa de Desocupação (%)')+ 
   geom_point(size=8, color = "lightblue")+ 
    geom_text(aes(label=prettyNum(Valor, big.mark = ".", decimal.mark =",")), size =2.5,  
@@ -111,7 +112,8 @@ pessoas_sub_ma<-subocupado2 %>%
   filter(`Unidade da Federação e Município`=="Maranhão") %>% 
   filter(Trimestres>="201404")
 pessoas_sub_ma$Trimestre <-factor(pessoas_sub_ma$Trimestre, levels = unique(pessoas_sub_ma$Trimestre[order(pessoas_sub_ma$Trimestres)]))
-plot2<- ggplot(pessoas_sub_ma, aes(x=Trimestre, y=Valor, color = Condicao, group=1))+
+
+plot2<- ggplot( data = na.omit(pessoas_sub_ma), aes(x=Trimestre, y=Valor, color = Condicao, group=1))+
   geom_line(size=1)+
   geom_point(size=2)+ 
   xlab('')+ylab('Em Mil')+
@@ -153,7 +155,7 @@ po2 = get_sidra(api='/t/5434/n3/21/v/4090/p/all/c693/all')
   Setor<-Setor %>% 
   filter(Atividade!="Total" & Atividade!="Atividades mal definidas", Atividade!= "Outro serviço") %>% filter(Trimestres>="201404")
   
-plot3<- ggplot(Setor, aes(x=Trimestre, y=Valor, color = Atividade, group=1))+
+plot3<- ggplot(data = na.omit(Setor), aes(x=Trimestre, y=Valor, color = Atividade, group=1))+
   geom_line(size=.5)+
   geom_point()+ 
   xlab('')+ylab('Em Mil')+
@@ -191,7 +193,8 @@ po_filtro_2 <- po_filtro %>%
   filter(`Categoria`!="Total") %>% 
   filter(Trimestres>="201404")
 po_filtro_2$Trimestre <-factor(po_filtro_2$Trimestre, levels = unique(po_filtro_2$Trimestre[order(po_filtro_2$Trimestres)]))
-plot4<-ggplot(po_filtro_2, aes(x=Trimestre, y=Valor, color = `Categoria`, group=1))+
+
+plot4<-ggplot(data = na.omit(po_filtro_2), aes(x=Trimestre, y=Valor, color = `Categoria`, group=1))+
   geom_line(size=.5)+
   geom_point()+ 
   xlab('')+ylab('Em Mil')+
