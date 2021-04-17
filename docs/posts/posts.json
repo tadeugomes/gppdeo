@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-04-17-selecaoestudantes/",
+    "title": "Seleção de Estudantes 2021",
+    "description": "Informações sobre o processo seletivo para novos integrantes",
+    "author": [
+      {
+        "name": "Tadeu Gomes Teixeira",
+        "url": "https://tadeuteixeira.netlify.app/"
+      }
+    ],
+    "date": "2021-04-17",
+    "categories": [],
+    "contents": "\n\n\n\nbody {\n\ntext-align: justify;\n\n}\n\nProcesso Seletivo\nO Grupo de Pesquisa está com inscrições abertas a candidatos e candidatas do curso de Administração da UFMA que tenham interesse em uma formação em Data Science aplicada à resolução de problemas organizacionais.\nOs alunos selecionados passarão por um programa de formação que contemplará a iniciação em duas linguagens de programação, R e Pyhon, análise exploratório de dados com estatística descritiva, estatística inferencial e introdução à Machine Learning, além, claro, da formação teórica sobre o impacto dessas tecnologias em setores específicos do mercado (ver Temas de Interesse).\nEspera-se que os alunos apresentem um Trabalho de Conclusão de Curso - tecnológico ou acadêmico - ao final do itinerário no Grupo.\nPerfil do candidato\nTer disponibilidade para participar das atividades do Grupo nos dois grupos.\nDisponibilidade para participar das reuniões do grupo.\nAluno regular do curso de Administração.\nComprometer-se a escrever o TCC na área de Data Science.\nMUITA vontade em aprender a programar.\nMUITA vontade em aplicar conhecimentos de estatística na resolução de problemas organizacionais.\nSe não tiver disponibilidade ou interesse em aprendizado acadêmico e técnico na área, favor não participar do seletivo.\nA fim de participar do Grupo? Então preencha o formulário e aguarde nosso contato para a segunda etapa!\nAtenção: serão aceitas respostas apenas com o e-mail da UFMA (@discente.ufma.br)\nAs atividades começarão em junho, seguindo o calendário do segundo semestre da UFMA.\nAs inscrições podem ser feitas até o próximo sábado, dia 24/04!\nAguardamos vocês!\n\n\n\n\n",
+    "preview": "posts/2021-04-17-selecaoestudantes/preview.jpeg",
+    "last_modified": "2021-04-17T16:03:38-03:00",
+    "input_file": "selecaoestudantes.utf8.md"
+  },
+  {
     "path": "posts/2021-04-13-desemprego-no-maranho/",
     "title": "Desemprego no Maranhão",
     "description": "Rápido olhar sobre o mercado de trabalho maranhense",

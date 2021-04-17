@@ -1,0 +1,56 @@
+---
+title: "Seleção de Estudantes 2021"
+description: |
+  Informações sobre o processo seletivo para novos integrantes
+author:
+  - name: Tadeu Gomes Teixeira
+    url: https://tadeuteixeira.netlify.app/
+preview: preview.jpeg
+date: 04-17-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{css, echo = FALSE}
+
+body {
+
+text-align: justify;
+
+}
+```
+
+# Processo Seletivo
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+O Grupo de Pesquisa está com inscrições abertas a candidatos e candidatas do curso de Administração da UFMA que tenham interesse em uma formação em Data Science aplicada à resolução de problemas organizacionais.
+
+Os alunos selecionados passarão por um programa de formação que contemplará a iniciação em duas linguagens de programação, **R** e **Pyhon**, análise exploratório de dados com estatística descritiva, estatística inferencial e introdução à Machine Learning, além, claro, da formação teórica sobre o impacto dessas tecnologias em setores específicos do mercado (ver [**Temas de Interesse**](http://gppdeo.org/temas.html)).
+
+Espera-se que os alunos apresentem um Trabalho de Conclusão de Curso - tecnológico ou acadêmico - ao final do itinerário no Grupo.
+
+Perfil do candidato
+
+-   Ter disponibilidade para participar das atividades do Grupo nos dois grupos.
+-   Disponibilidade para participar das reuniões do grupo.
+-   Aluno regular do curso de Administração.
+-   Comprometer-se a escrever o TCC na área de Data Science.
+-   MUITA vontade em aprender a programar.
+-   MUITA vontade em aplicar conhecimentos de estatística na resolução de problemas organizacionais.
+-   Se não tiver disponibilidade ou interesse em aprendizado acadêmico e técnico na área, favor não participar do seletivo.
+
+A fim de participar do Grupo? Então preencha o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSdq410ZE7qPopra2yVcX3pUXmZaovxpswbIVhTodfglt-mOpw/viewform) e aguarde nosso contato para a segunda etapa!
+
+Atenção: serão aceitas respostas apenas com o e-mail da UFMA (@discente.ufma.br)
+
+As atividades começarão em junho, seguindo o calendário do segundo semestre da UFMA.
+
+As inscrições podem ser feitas até o próximo sábado, dia 24/04!
+
+Aguardamos vocês!
+
+![](https://media.giphy.com/media/bn7hlyp0Cmcg0/giphy.gif)
