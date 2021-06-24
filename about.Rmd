@@ -1,12 +1,45 @@
 ---
-title: "Informações sobre o grupo"
-description: Qual nosso propósito?
+title: "Tadeu Gomes Teixeira"
+image: "avatar.jpg"
+links:
+  - label: LinkedIn
+    url: "https://br.linkedin.com/in/tadeu-gomes-teixeira-a12358147"
+  - label: Lattes
+    url: "http://lattes.cnpq.br/1407576230140190"
+  - label: GitHub
+    url: "https://github.com/tadeugomes"
+  - label: Email
+    url: "tadeu.teixeira@ufma.br"
+output:
+  postcards::trestles
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+## Sobre o Grupo de Pesquisa
 
-O *GPPDEO-Data Science e Gestão* tem como foco a realização de pesquisas e projetos de extensão nas áreas de ciência de dados e gestão organizacional, mapenado o estado da arte das ferramentas de gestão adotadas pelas corporações e suas repercurssões empresariais e sociais.
+O GPPDEO-Data Science e Gestão tem como foco a realização de pesquisas e projetos de extensão nas áreas de ciência de dados e gestão organizacional, mapenado o estado da arte das ferramentas de gestão adotadas pelas corporações e suas repercurssões empresariais e sociais.
 
-O Grupo está cadastrado no [Diretório de Grupos do CnPQ](http://dgp.cnpq.br/dgp/espelhogrupo/1066121816480282#linhaPesquisa), onde podem ser consultados os estudantes , membros vinculados e demais informações institucionais.
+O Grupo está cadastrado no [Diretório de Grupos do CnPQ](http://dgp.cnpq.br/dgp/espelhogrupo/1066121816480282#linhaPesquisa), onde podem ser consultados os estudantes, membros vinculados e demais informações institucionais.
+
+## Bio
+
+Sou professor e pesquisador no Departamento de Administração e Ciências Contábeis e no Programa de Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para a Inovação (Profnit) na Universidade Federal do Maranhão (UFMA).
+
+Antes de ingressar na carreira docente fui Analista de Gestão no INCRA e na Fiocruz. Coordenou atualmente três projetos de pesquisa e extensão: Procad-Amazônia pelo PPGPSI/UFMA (financiado pela CAPES), projeto de pesquisa Mercado de Trabalho e Políticas Públicas (financiado pelo edital Universal CnPQ 2018) e um projeto piloto de Iniciação Científica na modalidade remota (financiado pela CAPES).
+
+Tenho experiência em gestão de organizações de CT&I e em gestão de projetos de pesquisa e extensão nas áreas de Gestão Pública, Regulacão de Mercado, Políticas Públicas, Gestão da Inovação Social e Sociologia das Organizações. Interesses atuais: business analytcs, data science e suas relações com o campo da gestão e impactos sociais.
+
+## Formação
+
+**UNIVERSIDADE ESTADUAL DE CAMPINAS** \| UNICAMP
+
+Doutor em Ciências Sociais \| Março 2010 - Setembro 2013
+
+**UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO** \| UFES
+
+Mestre em Administração\| Março 2008 - Março 2010
+
+**FUNDAÇÃO OSWALDO CRUZ** \| FIOCRUZ
+
+Especialista em Gestão de Organizações de Ciência e Tecnologia \| 2012-2014
+
+## 
