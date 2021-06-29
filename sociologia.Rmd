@@ -1,0 +1,14 @@
+---
+title: "Sociologia aplicada à administração"
+description: Material de apoio
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introdução 
+
+Vamos compartilhar neste espaço informações introdutórias sobre a Sociologia como campo acadêmico, especialmente sua aplicação à Administração e aos estudos organizacionais. Espero que tenham uma boa aventura sociológica!
+
+Estou migrando para este espaço o conteúdo antes disponível [aqui](https://sway.office.com/FtvRJRM5OU3yIua2?ref=Link). 
