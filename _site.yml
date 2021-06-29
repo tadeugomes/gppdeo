@@ -9,8 +9,6 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Sobre"
-      href: about.html
     - text: "Temas de Interesse"
       href: temas.html
     - text: "Disciplinas"
@@ -19,6 +17,10 @@ navbar:
           href: sociologia.html
         - text: "Sistemas de Informacao"
           href: sistemas.html
+        - text: "Laboratorio"
+          href: lab.html
+    - text: "Sobre"
+      href: about.html
 base_url: https://gppdeo.org
 collections:
   posts:

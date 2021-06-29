@@ -1,0 +1,15 @@
+---
+title: "Laboratório"
+description: Introdução à análise de dados
+output:
+  distill::distill_article:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introdução 
+
+Vamos compartilhar neste espaço informações introdutórias sobre análise de dados e suas aplicações na área da gestão.  
