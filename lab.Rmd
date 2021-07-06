@@ -10,6 +10,24 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Introdução 
+# Introdução
 
-Vamos compartilhar neste espaço informações introdutórias sobre análise de dados e suas aplicações na área da gestão.  
+Vamos compartilhar neste espaço informações introdutórias sobre análise de dados e suas aplicações na área da gestão.
+
+# Instalação do R e RStudio
+
+Em computadores com o sistema operacional Windows, a instalação do R deve seguir algumas etapas para o bom funcionamento do programa.
+
+Faça o download dos programas necessários (cliquem no link para acesso direto aos sites):
+
+-   [O R propriamente](https://cran.r-project.org/bin/windows/base/R-4.1.0-win.exe);
+
+-   [O Rtools](https://cran.r-project.org/bin/windows/Rtools/rtools40v2-x86_64.exe);
+
+-   [O RStudio](https://www.rstudio.com/products/rstudio/download/#download).
+
+Na sequência, instale primeiro o R, depois o Rtools e, por fim, o Rstudio.
+
+Atenção: ao instalar o Rtools, não esqueça de configurar a variável de ambiente, opção que pode aparecer como "Add rtools to system PATH".
+
+Uma alternativa à instalação é utilizar o serviço do [Rstudio Cloud](https://login.rstudio.cloud/login?redirect=%2Foauth%2Fauthorize%3Fredirect_uri%3Dhttps%253A%252F%252Frstudio.cloud%252Flogin%26client_id%3Drstudio-cloud%26response_type%3Dcode%26show_auth%3D0%26show_login%3D1%26show_setup%3D0&setup=False). A vantagem é que você pode utilizar de qualquer computador e até mesmo do celular, o que é ótimo para fins didáticos.
