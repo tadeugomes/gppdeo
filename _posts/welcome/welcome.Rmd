@@ -26,6 +26,4 @@ Sejam bem vindos ao nosso blog!
 
 Usaremos esse espaço para compartilhar informações sobre as atividades do grupo de pesquisa como ensino, projetos de extensão, dicas e como a ciência de dados está sendo usada para impulsionar e aperfeiçoar atividades de gestão.
 
-Fiquem à vontade nesta nova casa!
 
-![](https://media.giphy.com/media/409q1dSLmlVwEWRFH6/giphy.gif)

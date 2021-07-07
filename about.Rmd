@@ -16,19 +16,27 @@ output:
 
 ## Grupo de Pesquisa
 
+```{css, echo = FALSE}
+body {
+
+  text-align: justify;
+
+}
+```
+
 O GPPDEO - Data Science e Gestão tem como foco a realização de pesquisas e projetos de extensão nas áreas de ciência de dados e gestão organizacional, mapenado o estado da arte das ferramentas de gestão adotadas pelas corporações e suas repercurssões empresariais e sociais.
 
 O Grupo está cadastrado no [Diretório de Grupos do CnPQ](http://dgp.cnpq.br/dgp/espelhogrupo/1066121816480282#linhaPesquisa), onde podem ser consultados os estudantes, membros vinculados e demais informações institucionais.
 
-## Sobre o coordenador
+### Sobre o coordenador
 
 Sou professor e pesquisador no Departamento de Administração e Ciências Contábeis e no Programa de Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para a Inovação (Profnit) na Universidade Federal do Maranhão (UFMA).
 
 Fui Analista de Gestão no INCRA e na Fiocruz antes de ingressar na carreira docente. Coordeno atualmente três projetos de pesquisa e extensão: Procad-Amazônia pelo PPGPSI/UFMA (financiado pela CAPES), projeto de pesquisa Mercado de Trabalho e Políticas Públicas (financiado pelo edital Universal CnPQ 2018) e um projeto piloto de Iniciação Científica na modalidade remota (financiado pela CAPES).
 
-Tenho experiência em gestão de organizações de CT&I e em gestão de projetos de pesquisa e extensão nas áreas de Gestão Pública, Regulacão de Mercado, Políticas Públicas, Gestão da Inovação Social e Sociologia das Organizações. Interesses atuais: business analytcs, data science e suas relações com o campo da gestão e impactos sociais.
+Tenho experiência em gestão de organizações de CT&I e em gestão de projetos de pesquisa e extensão nas áreas de Gestão Pública, Regulacão de Mercado, Políticas Públicas, Gestão da Inovação Social e Sociologia das Organizações. Interesses atuais: business analytics, data science e suas relações com o campo da gestão e impactos sociais.
 
-## Formação
+### Formação
 
 **UNIVERSIDADE ESTADUAL DE CAMPINAS** \| UNICAMP
 

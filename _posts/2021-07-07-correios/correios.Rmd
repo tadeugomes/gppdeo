@@ -16,9 +16,17 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Novamente a pauta de privatização dos Correios toma fôlego e, com ela, os debates nas redes sociais e nos veículos de comunicação.
+```{css, echo = FALSE}
+body {
 
-Estudei durante o doutorado o setor postal brasileiro e os Correios, o que resultou em artigos e um livro que pode ser consultado [aqui gratuitamente graças ao Scielo Book](http://books.scielo.org/id/28w3s).
+  text-align: justify;
+
+}
+```
+
+Novamente a privatização dos Correios está na pauta e, com ela, os debates nas redes sociais e nos veículos de comunicação.
+
+Estudei durante o doutorado o setor postal brasileiro e os Correios, o que resultou em artigos e um livro que pode ser consultado [aquigratuitamente graças ao Scielo Books.](http://books.scielo.org/id/28w3s)
 
 ![](livro.png){width="3.3cm" height="4.6cm"}
 
@@ -92,6 +100,6 @@ Contribuí também com uma matéria do UOL, [**Correios Privado é Melhor**?,](
 
 Meu livro pode ser acessado diretamente no repositório da Edfuba clicando no título do livro: [**Os Correios e as Políticas Governamentais: mudanças e permanências**](https://repositorio.ufba.br/ri/bitstream/ri/21115/3/Os%20Correios%20e%20as%20Poli%cc%81ticas%20Governamentais_RI.pdf)
 
-Eu recomendo, para quem quiser entender e mapear as tendências internacionais no setor, meu artigo **[Tendências do setor postal no cenário internacional: liberalização, regulação do mercado e reestruturação organizacional](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-69922016000200349)**
+Eu recomendo, para quem quiser entender e mapear as tendências internacionais no setor, meu artigo [**Tendências do setor postal no cenário internacional: liberalização, regulação do mercado e reestruturação organizacional**](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-69922016000200349)
 
 Um gráfico com boa visualização dos resultados financeiros recentes da empresa pode ser acessado [aqui](https://valor.globo.com/empresas/noticia/2020/11/25/correios-devem-ter-lucro-bilionario-no-ano.ghtml).
