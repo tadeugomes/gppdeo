@@ -1,0 +1,20 @@
+---
+title: "Recursos básicos para pesquisa"
+description: Material de apoio
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Vamos compartilhar aqui alguns recursos básicos para os primeiros passos na sistematização do processo de pesquisa, considerando os aspectos que toda e todo pesquisadora e pesquisador podem utilizar para otimizar o trabalho.
+
+## Projeto de Pesquisa: primeiros passos
+
+A elaboração de um projeto de pesquisa deve seguir algumas regras gerais que são normatizadas pelas regras da Associação Brasileira de Normas Técnicas (ABNT).
+
+O projeto de pesquisa, tal qual podemos verificar no [modelo disponível aqui](https://docs.google.com/document/d/1lDWdMhx6B-9u07SbGtRFOqEJ9iCaB_2N/edit?usp=sharing&ouid=104205543849857134427&rtpof=true&sd=true), apresenta um conjunto de normas de [formatação](https://drive.google.com/file/d/1bJp3cwEhr8DeJ3uybHT0bP24BacoxlKl/view?usp=sharing) e de elaboração de [referências](https://drive.google.com/file/d/1fvUcO26m5cMs4WvLFlAFvpaqPt3lHooP/view?usp=sharing) para o material utilizado em sua elaboração.
+
+Para facilitar a elaboração das referências podemos utilizar o [Zotero](https://www.zotero.org/).
+
+Para a busca inicial de referências, o Google Acadêmico é uma ótima alternativa, sobretudo ao [otimizar os recursos disponibilizados pelo buscador](https://drive.google.com/file/d/1VEYnFllPpWIIb3d3knVu6z8A-aN_rZSX/view?usp=sharing.).
