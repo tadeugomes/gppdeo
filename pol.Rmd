@@ -1,0 +1,71 @@
+---
+title: "Políticas Públicas de Ciência, Tecnologia e Inovação e o Estado Brasileiro - Profnit"
+description: Material para as aulas 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+```{css}
+body {
+
+  text-align: justify;
+
+}
+
+```
+
+## Apresentação
+
+```{r}
+library(icons)
+
+```
+
+Vamos compartilhar neste espaço informações, dicas e material da disciplina.
+
+A disciplina está dividida em dois blocos: aulas (temas) 1 a 5 comigo (prof. Tadeu) e as aulas seguintes com o prof. Walber Pontes.
+
+Abaixo estão os textos, links e videos didáticos com a apresentação dos slides. Os encontros síncronos serão para debate dos temas e os links serão disponibilizados no grupo privado.
+
+### Tema 1 - **Estado, Governo, Administração Pública e o Ciclo das Políticas Públicas**
+
+Os slides `r icon_style(fontawesome("file-powerpoint", style = "solid"), fill = "red")` podem ser acessados [aqui](https://docs.google.com/presentation/d/17K_yKptl7qYy2jDy7LtDGy-ecH6qGyBm/edit?usp=sharing&ouid=104205543849857134427&rtpof=true&sd=true).
+
+Ordem sugerida de leitura
+
+1.  XUN, W. ET ALL. [Guia de políticas públicas: gerenciando processos.](https://repositorio.enap.gov.br/bitstream/1/2555/1/Guia%20de%20Pol%C3%ADticas%20P%C3%BAblicas%20Gerenciando%20Processos.pdf) Brasília: ENAP, 2014.
+
+<!-- -->
+
+2.  BAPTISTA, Tatiana Wargas de Faria; REZENDE, Mônica de. [A ideia de ciclo na análise de políticas públicas.](https://lagep.ufop.br/sites/default/files/lagep/files/baptista_e_rezende_2011_a_ideia_de_ciclo_na_analise_de_politicas_publicas_0.pdf?m=1591022540) **Caminhos para análise das políticas de saúde**, v. 1, p. 221-272, 2011.
+3.  DO ESTADO, Câmara da Reforma. [**Plano diretor da reforma do aparelho do Estado**.](http://bresserpereira.org.br/documents/MARE/PlanoDiretor/PlanoDiretor.pdf) Brasília: Câmara da Reforma do Estado, 1995.
+4.  CARDOSO JR, José Celso. [Planejamento governamental e gestão pública no Brasil: elementos para ressignificar o debate e capacitar o Estado](https://www.econstor.eu/bitstream/10419/90964/1/664199941.pdf). **Texto para Discussão**, 2011.
+
+*Complementar*
+
+SOUZA, Celina. Políticas públicas: uma revisão da literatura. *Sociologias*, p. 20-45, 2006. Disponível em: <https://www.scielo.br/j/soc/a/6YsWyBWZSdFgfSqDVQhc4jm/?format=pdf&lang=pt>
+
+COSTA, Frederico Lustosa. Brasil: 200 anos de Estado; 200 anos de administração pública; 200 anos de reformas. *Revista de Administração Pública*---Rio de Janeiro, v. 42, n. 5, p. 829-74, 2008.
+
+### Tema 2 - **A Institucionalização da Política de CT&I no Brasil**
+
+Os slides `r icon_style(fontawesome("file-powerpoint", style = "solid"), fill = "red")` podem ser acessados [aqui](https://docs.google.com/presentation/d/17K_yKptl7qYy2jDy7LtDGy-ecH6qGyBm/edit?usp=sharing&ouid=104205543849857134427&rtpof=true&sd=true).
+
+Ordem sugerida de leitura
+
+1.  VELHO, L. [Conceitos de Ciência e a Política Científica, Tecnológica e Inovação](http://www.scielo.br/pdf/soc/v13n26/06.pdf). **Sociologias**, Porto Alegre, ano 13, no 26, jan./abr. p.128-153, 2011.
+
+2.  REZENDE, S. M. [Evolução da política nacional de ciência, tecnologia e inovação e dos seus instrumentos de apoio.](https://www.ipea.gov.br/participacao/images/pdfs/conferencias/Ciencia_Tecnologia_III/deliberacoes_3_conferencia_tecnologia_inovacao.pdf) In 3ª Conferência Nacional de Ciência, Tecnologia e Inovação: síntese das conclusões e recomendações, pp. 25 a 58, 2006.
+
+3.  REZENDE, S.  M. [Produção científica e tecnológica no Brasil](http://www.scielo.br/pdf/rae/v51n2/v51n2a07.pdf): conquistas recentes e desafios para a próxima década, **RAE**, vol. 51, núm. 2, marzo-abril, 2011, p. 202-209.
+
+*Complementares*
+
+DA CUNHA LEMOS, Dannyela. A[evolução das políticas de ciência e tecnologia no Brasil e a incorporação da inovação]( http://www.redesist.ie.ufrj.br/lalics/papers/20_A_Evolucao_das_Politicas_de_Ciencia_e_Tecnologia_no_Brasil_e_a_Incorporacao_da_Inovacao.pdf). 2013.  
+
+SCHWARTZMAN, S. "[Um espaço para a Ciência: a formação da comunidade científica no Brasi](http://www.schwartzman.org.br/simon/spacept/pdf/capit9.pdf)l". 2001. 357p. Cap. 8, 9 e 10.
+
+ SALERNO, Mario Sergio; KUBOTA, Luis Claudio. [Estado e inovação. Políticas de incentivo à inovação tecnológica](http://repositorio.ipea.gov.br/bitstream/11058/3069/1/Livro-Brasil-O_estado_de_uma_na%c3%a7%c3%a3o_2007.pdf)**.** Brasília: Ipea, 2008.

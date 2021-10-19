@@ -19,6 +19,8 @@ navbar:
           href: pesquisa.html
         - text: "Laboratorio"
           href: lab.html
+        - text: "POL Profnit"
+          href: pol.html
     - text: "Sobre"
       href: about.html
 base_url: https://gppdeo.org
