@@ -60,12 +60,32 @@ Ordem sugerida de leitura
 
 2.  REZENDE, S. M. [Evolução da política nacional de ciência, tecnologia e inovação e dos seus instrumentos de apoio.](https://www.ipea.gov.br/participacao/images/pdfs/conferencias/Ciencia_Tecnologia_III/deliberacoes_3_conferencia_tecnologia_inovacao.pdf) In 3ª Conferência Nacional de Ciência, Tecnologia e Inovação: síntese das conclusões e recomendações, pp. 25 a 58, 2006.
 
-3.  REZENDE, S.  M. [Produção científica e tecnológica no Brasil](http://www.scielo.br/pdf/rae/v51n2/v51n2a07.pdf): conquistas recentes e desafios para a próxima década, **RAE**, vol. 51, núm. 2, marzo-abril, 2011, p. 202-209.
+3.  REZENDE, S. M. [Produção científica e tecnológica no Brasil](http://www.scielo.br/pdf/rae/v51n2/v51n2a07.pdf): conquistas recentes e desafios para a próxima década, **RAE**, vol. 51, núm. 2, marzo-abril, 2011, p. 202-209.
 
 *Complementares*
 
-DA CUNHA LEMOS, Dannyela. A[evolução das políticas de ciência e tecnologia no Brasil e a incorporação da inovação]( http://www.redesist.ie.ufrj.br/lalics/papers/20_A_Evolucao_das_Politicas_de_Ciencia_e_Tecnologia_no_Brasil_e_a_Incorporacao_da_Inovacao.pdf). 2013.  
+DA CUNHA LEMOS, Dannyela. A[evolução das políticas de ciência e tecnologia no Brasil e a incorporação da inovação](http://www.redesist.ie.ufrj.br/lalics/papers/20_A_Evolucao_das_Politicas_de_Ciencia_e_Tecnologia_no_Brasil_e_a_Incorporacao_da_Inovacao.pdf). 2013.  
 
 SCHWARTZMAN, S. "[Um espaço para a Ciência: a formação da comunidade científica no Brasi](http://www.schwartzman.org.br/simon/spacept/pdf/capit9.pdf)l". 2001. 357p. Cap. 8, 9 e 10.
 
  SALERNO, Mario Sergio; KUBOTA, Luis Claudio. [Estado e inovação. Políticas de incentivo à inovação tecnológica](http://repositorio.ipea.gov.br/bitstream/11058/3069/1/Livro-Brasil-O_estado_de_uma_na%c3%a7%c3%a3o_2007.pdf)**.** Brasília: Ipea, 2008.
+
+### Tema 3 - Teoria do Desenvolvimento
+
+Os slides `r icon_style(fontawesome("file-powerpoint", style = "solid"), fill = "red")` podem ser acessados [aqui](https://docs.google.com/presentation/d/17EX0WrMJXFcQYCJOkLb3HHlIjSXC_X1j/edit?usp=sharing&ouid=104205543849857134427&rtpof=true&sd=true).
+
+Ordem de leitura sugerida dos textos:
+
+1.  DE PAULA, João Antonio et al. [Ciência e tecnologia na dinâmica capitalista: a elaboração neo-schumpeteriana ea teoria do capital](https://revistas.dee.spgg.rs.gov.br/index.php/ensaios/article/view/2043/2425) [Science, technology and the dynamics of capitalism: the neo-schumpeterian approach and the theory of the capital]. Cedeplar, Universidade Federal de Minas Gerais, 2001.
+
+2.  PÉREZ, Carlota.[Technological change and opportunities for development as a moving target,](https://drive.google.com/file/d/1tKpPd87uPqLpR-kB9H_wHvup7QhsJXNU/view?usp=sharing) Cepal Review, v. 75, p. 109-30, 2001.
+
+3.  MELO, Tatiana Massaroli; FUCIDJI, José Ricardo; POSSAS, Mario Luiz. [Política industrial como política de inovação: notas sobre hiato tecnológico, políticas, recursos e atividades inovativas no Brasil](https://periodicos.sbu.unicamp.br/ojs/index.php/rbi/article/view/8649098). Revista Brasileira de Inovação, v. 14, p. 11-36, 2015.
+
+4.  DA SILVA, Christian Luiz; IEIS, Fabiana; FARAH JR, Moises Francisco. [As interfaces da Política de Ciência, Tecnologia e Inovação com a Política Industrial: dilemas na trajetória recente do Brasil](https://www.redalyc.org/pdf/752/75235861004.pdf). Desenvolvimento em Questão, v. 13, n. 30, p. 60-100, 2015.
+
+O vídeo pode ser acessado abaixo:
+
+<iframe width="400" height="300" src="https://www.youtube.com/embed/UKbIfR4Ms48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
