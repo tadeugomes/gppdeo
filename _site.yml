@@ -1,12 +1,12 @@
 name: "gpesquisa"
-title: "GPPDEO - Pesquisa e Ensino"
+title: "GPPDEO - Grupo de Pesquisa/UFMA"
 description: |
-  Grupo de Pesquisa
+  Data Science, Políticas Públicas e Gestão
 output_dir: "docs"
 theme: theme.css
 navbar:
   logo:
-    image: images/logo.jpg
+    image: images/logo.png
   right:
     - text: "Home"
       href: index.html

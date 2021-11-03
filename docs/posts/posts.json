@@ -78,14 +78,16 @@
     "author": [
       {
         "name": "Tadeu Gomes Teixeira",
-        "url": "https://tadeuteixeira.netlify.app/"
+        "url": "gppdeo.org"
       }
     ],
     "date": "2021-03-28",
     "categories": [],
     "contents": "\r\nSejam bem vindos ao nosso blog!\r\nUsaremos esse espaço para compartilhar informações sobre as atividades do grupo de pesquisa como ensino, projetos de extensão, dicas e como a ciência de dados está sendo usada para impulsionar e aperfeiçoar atividades de gestão.\r\n\r\n\r\n\r\n",
-    "preview": "posts/welcome/preview.jpg",
-    "last_modified": "2021-07-07T15:57:41-03:00",
-    "input_file": {}
+    "preview": "posts/welcome/preview.png",
+    "last_modified": "2021-11-03T19:37:53-03:00",
+    "input_file": {},
+    "preview_width": 500,
+    "preview_height": 500
   }
 ]

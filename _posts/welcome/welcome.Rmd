@@ -2,10 +2,10 @@
 title: "Bem vindos"
 description: |
   Sejam bem vindos ao nosso blog!
-preview: preview.jpg
+preview: preview.png
 author:
   - name: Tadeu Gomes Teixeira 
-    url: https://tadeuteixeira.netlify.app/
+    url: gppdeo.org
     affiliation: Universidade Federal do Maranhão
     affiliation_url: www.ufma.br
 date: 03-28-2021
