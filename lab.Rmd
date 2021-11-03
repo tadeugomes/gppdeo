@@ -32,6 +32,6 @@ Atenção: ao instalar o Rtools, não esqueça de configurar a variável de ambi
 
 Uma alternativa à instalação é utilizar o serviço do [Rstudio Cloud](https://login.rstudio.cloud/login?redirect=%2Foauth%2Fauthorize%3Fredirect_uri%3Dhttps%253A%252F%252Frstudio.cloud%252Flogin%26client_id%3Drstudio-cloud%26response_type%3Dcode%26show_auth%3D0%26show_login%3D1%26show_setup%3D0&setup=False). A vantagem é que você pode utilizar de qualquer computador e até mesmo do celular, o que é ótimo para fins didáticos.
 
-# Introdução ao R para análise de dados 
+# Introdução ao R para análise de dados
 
 Realizamos um minicurso de introdução ao R para alunos do curso de administração da UFMA e do mestrado do Profnit. O material pode ser acessado no link a seguir: [Minicurso: Introdução à Análise de Dados (tadeugomes.github.io)](https://tadeugomes.github.io/intro-analise-dados-adm/)

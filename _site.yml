@@ -3,6 +3,7 @@ title: "GPPDEO - Pesquisa e Ensino"
 description: |
   Grupo de Pesquisa
 output_dir: "docs"
+theme: theme.css
 navbar:
   logo:
     image: images/logo.jpg
@@ -21,6 +22,8 @@ navbar:
           href: lab.html
         - text: "POL Profnit"
           href: pol.html
+    - text: Projetos
+      href: projetos.html
     - text: "Sobre"
       href: about.html
 base_url: https://gppdeo.org
