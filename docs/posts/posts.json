@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-11-04-sead/",
+    "title": "XIV Semana de Administração da UFMA",
+    "description": "Evento aconteceu na modalidade online",
+    "author": [
+      {
+        "name": "Tadeu Gomes Teixeira",
+        "url": {}
+      }
+    ],
+    "date": "2021-11-04",
+    "categories": [],
+    "contents": "\r\n\r\n\r\nbody {\r\n\r\n  text-align: justify;\r\n\r\n}\r\n\r\n\r\nSemana de Administração da UFMA\r\nA XIV Semana de Administração da UFMA, evento já tradicional da área de administração para os estudantes maranhenses, teve a sua edição realizada online neste ano.\r\nPensamos em palestrantes que pudessem apresentar, a partir da temática Perspectivas Empresariais para o Maranhão, um panorama da situação econômica e possibilidades de superação da crise. Além disso, o último dia do evento foi totalmente dedicado à Data Science e suas possibilidades no contexto organizacional.\r\nO evento, que ocorreu entre 25 e 27 de outubro, teve na mesa de abertura a coodenadora do curso, a Pró-reitora de Ensino, Profa. Isabem Ibarra, e o Pró-reitor de Planejamento e Gestão, Prof. Walber Pontes, representando a reitoria.\r\nOs vídeos do evento podem ser acessados no canal do YouTube da Semana de Administração.\r\n\r\n\r\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<style>\r\ndiv.gallery {\r\n  border: 1px solid #ccc;\r\n}\r\n\r\ndiv.gallery:hover {\r\n  border: 1px solid #777;\r\n}\r\n\r\ndiv.gallery img {\r\n  width: 100%;\r\n  height: auto;\r\n}\r\n\r\ndiv.desc {\r\n  padding: 15px;\r\n  text-align: center;\r\n}\r\n\r\n* {\r\n  box-sizing: border-box;\r\n}\r\n\r\n.responsive {\r\n  padding: 0 6px;\r\n  float: left;\r\n  width: 24.99999%;\r\n}\r\n\r\n@media only screen and (max-width: 900px) {\r\n  .responsive {\r\n    width: 49.99999%;\r\n    margin: 6px 0;\r\n  }\r\n}\r\n\r\n@media only screen and (max-width: 500px) {\r\n  .responsive {\r\n    width: 100%;\r\n  }\r\n}\r\n\r\n.clearfix:after {\r\n  content: \"\";\r\n  display: table;\r\n  clear: both;\r\n}\r\nPalestrantes da XIV edição da SEAD\r\n\r\n\r\n  \r\n    \r\n      \r\n    \r\n  \r\n\r\n\r\n\r\n\r\n  \r\n    \r\n      \r\n    \r\n  \r\n\r\n\r\n\r\n  \r\n    \r\n      \r\n    \r\n  \r\n\r\n\r\n\r\n  \r\n    \r\n      \r\n    \r\n  \r\n\r\n\r\n\r\n  \r\n    \r\n      \r\n    \r\n  \r\n\r\n\r\n\r\n  \r\n    \r\n      \r\n    \r\n  \r\n\r\n\r\n\r\n  \r\n    \r\n      \r\n    \r\n  \r\n\r\n\r\n\r\n  \r\n    \r\n      \r\n    \r\n  \r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2021-11-04-sead/images/Simplicio.jpeg",
+    "last_modified": "2021-11-04T15:37:58-03:00",
+    "input_file": "sead.knit.md"
+  },
+  {
     "path": "posts/2021-07-22-pandemia-no-ma/",
     "title": "Do Home Office ao Associativismo Rural",
     "description": "Impactos da pandemia da Covid-19 no mercado de trabalho maranhense",
