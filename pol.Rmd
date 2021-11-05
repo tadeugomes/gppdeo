@@ -95,7 +95,6 @@ O vídeo pode ser acessado abaixo:
 
 ### Tema 4 - **Configuração, Governança e Coordenação de Sistemas Nacionais de CT&I.**
 
-\
 Os slides `r icon_style(fontawesome("file-powerpoint", style = "solid"), fill = "red")` podem ser acessados [aqui](https://docs.google.com/presentation/d/17EFBpkAcFoiIvEr9RlX-7GwIzxS0jYuh/edit?usp=sharing&ouid=104205543849857134427&rtpof=true&sd=true).
 
 Ordem sugerida de leitura dos textos:
@@ -105,4 +104,25 @@ Ordem sugerida de leitura dos textos:
 
 O vídeo com os comentários aos slides pode ser acessado a seguir:
 
-<iframe width="300" height="400" src="https://www.youtube.com/embed/MEzw5T9hn4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="400" src="https://www.youtube.com/embed/MEzw5T9hn4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+### Tema 5 - Marco Legal de CT&I, Instrumentos de Fomento, Programas e Fundos de Financiamento
+
+Os slides `r icon_style(fontawesome("file-powerpoint", style = "solid"), fill = "red")` podem ser acessados [aqui](https://docs.google.com/presentation/d/17U6YmCBlMHSYVm4xM241KtRLwuYqwMDJ/edit?usp=sharing&ouid=104205543849857134427&rtpof=true&sd=true).
+
+Leitura complementar sugerida:
+
+SOARES, Fabiana de Menezes; PRETE, Esther Kulkamp Eyng. [**Marco regulatório em ciência, tecnologia e inovação**](http://www.arraeseditores.com.br/media/ksv_uploadfiles/o/l/olho_-_marco_regulatorio_em_ciencia_tecnologia_e_inovacao.pdf): texto e contexto da Lei nº 13.243/2016. Belo Horizonte: Arraes, 2018.
+
+O vídeo pode ser acessado abaixo:
+
+<iframe width="300" height="400" src="https://www.youtube.com/embed/lye11jUYKI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+
+
+### Sobre a AV1 - Avaliação para composição das notas nos polos
+
