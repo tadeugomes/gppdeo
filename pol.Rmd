@@ -122,7 +122,6 @@ O vídeo pode ser acessado abaixo:
 
 </iframe>
 
-
-
 ### Sobre a AV1 - Avaliação para composição das notas nos polos
 
+Instruções para elaboração do artigo final nos `r icon_style(fontawesome("file-powerpoint", style = "solid"), fill = "red")` [slides](<https://docs.google.com/presentation/d/1sczARMCF8X5FwXK90Rq-dD1ZRNTyv5Uj/edit?usp=sharing&ouid=104205543849857134427&rtpof=true&sd=true>).
