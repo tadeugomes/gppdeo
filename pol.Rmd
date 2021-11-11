@@ -73,7 +73,7 @@ SCHWARTZMAN, S. "[Um espaço para a Ciência: a formação da comunidade cientí
 
  SALERNO, Mario Sergio; KUBOTA, Luis Claudio. [Estado e inovação. Políticas de incentivo à inovação tecnológica](http://repositorio.ipea.gov.br/bitstream/11058/3069/1/Livro-Brasil-O_estado_de_uma_na%c3%a7%c3%a3o_2007.pdf)**.** Brasília: Ipea, 2008.
 
-### Tema 3 - Teoria do Desenvolvimento
+### Tema 3 - **Teoria do Desenvolvimento**
 
 Os slides `r icon_style(fontawesome("file-powerpoint", style = "solid"), fill = "red")` podem ser acessados [aqui](https://docs.google.com/presentation/d/17EX0WrMJXFcQYCJOkLb3HHlIjSXC_X1j/edit?usp=sharing&ouid=104205543849857134427&rtpof=true&sd=true).
 
@@ -108,7 +108,7 @@ O vídeo com os comentários aos slides pode ser acessado a seguir:
 
 </iframe>
 
-### Tema 5 - Marco Legal de CT&I, Instrumentos de Fomento, Programas e Fundos de Financiamento
+### Tema 5 - **Marco Legal de CT&I, Instrumentos de Fomento, Programas e Fundos de Financiamento**
 
 Os slides `r icon_style(fontawesome("file-powerpoint", style = "solid"), fill = "red")` podem ser acessados [aqui](https://docs.google.com/presentation/d/17U6YmCBlMHSYVm4xM241KtRLwuYqwMDJ/edit?usp=sharing&ouid=104205543849857134427&rtpof=true&sd=true).
 
@@ -122,6 +122,56 @@ O vídeo pode ser acessado abaixo:
 
 </iframe>
 
+### Tema 6 - **Avaliação de Políticas Públicas e Programas, Indicadores Nacionais de Ciência e Tecnologia e Comparação Internacional**
+
+Os slides `r icon_style(fontawesome("file-powerpoint", style = "solid"), fill = "red")` podem ser acessados [aqui](https://docs.google.com/presentation/d/1xD7PxP5kMKfldOLcwu4YMdzT5GZKv4N4/edit?usp=sharing&ouid=104205543849857134427&rtpof=true&sd=true).
+
+Bibliografia
+
+TCU. Tribunal de Contas da União. [Relatório de levantamento Políticas de ciência, tecnologia e inovação no Brasil e papel exercido pela financiadora Finep. Avaliação sobre como os fundos setoriais contribuem para o alcance dos objetivos da política e dos planos na área da ciência, tecnologia e inovação](http://www.creativante.com.br/download/FINEP-TCU.pdf). TC002.105/2012-8. Brasília: 2012.
+
+IBGE. Pesquisa de Inovação 2014 -- *Relatório da Pesquisa de Inovação*(<https://drive.google.com/file/d/1m1AM2kL5z0TjkIMoGai7wgc5mTfASLPb/view?usp=sharing>).
+
+Observação: versões recentes da *Pesquisa de Inovação* podem ser acessadas na [página do IBGE](https://www.ibge.gov.br/estatisticas/multidominio/ciencia-tecnologia-e-inovacao/9141-pesquisa-de-inovacao.html?=&t=o-que-e).
+
+### Tema 7 - **A construção da Política de Inovação nas ICTS**
+
+BIN, A. 2008. [*Planejamento da Pesquisa e da Inovação: conceitos e instrumentos*](https://docs.google.com/presentation/d/1zQ_KydYzm6A7C0FmvgKhBPcnBXf2IoJT/edit?usp=sharing&ouid=104205543849857134427&rtpof=true&sd=true)*.* Tese de Doutorado. DPCT -- Unicamp. Campinas - SP.
+
+ARNOUD, E. et all 2012. ["Knowledge Transfer From Public Research Organizations."](https://drive.google.com/file/d/1zP06pSMRI5Zx_j7opiJdqQAX6s7cLOE_/view?usp=sharing) Final Report STOA, november 2012.
+
+MCTI e FORTEC. [Guia de Orientação para Elaboração da Política de Inovação nas ICTs](https://drive.google.com/file/d/1xLDqWfGiv4-DwjfmrHCmtFd_ipU9377j/view?usp=sharing).
+
+IPEA, 2017. [Políticas de apoio à inovação tecnológica no Brasil: avanços recentes, limitações e propostas de ações](https://drive.google.com/file/d/1rVrdA0lWetKyPzxnLHxXkL-eU6Y5W7Nf/view?usp=sharing). Orgs: Lenita Maria Turchi, José Mauro de Morais. -- Brasília.
+
+### Tema 8 - **Ecossistemas de Inovação - Relações Governo-Universidade-Empresa e o papel dos NITs, Parques Tecnológicos e Incubadoras**.
+
+Os slides `r icon_style(fontawesome("file-powerpoint", style = "solid"), fill = "red")` podem ser acessados [aqui](https://docs.google.com/presentation/d/1KGI4uXhMzLK3a4oE4uwuYlotV_a895vt/edit?usp=sharing&ouid=104205543849857134427&rtpof=true&sd=true).
+
+EYDESDORFF ,L. ["The Triple Helix of University-Industry-Government Relations."](http://eprints.rclis.org/16559/1/The%20Triple%20Helix%20of%20University-Industry-Government%20Relations.Jan12.pdf) University of Amsterdam, Amsterdam School of Communication Research (ASCoR), Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands; February 2012.
+
+TRZECIAK, D.; CORAL, E., e PEREIRA, G., L. 2010. ["Estruturação e Planejamento de Núcleos de Inovação Tecnológica."](http://www.brasil.abgi-group.com/wp-content/uploads/2010/10/Manual_PlanejamentoNITs-FINAL.pdf) PRONIT -- Implantação e Estruturação do Arranjo Catarinense de Núcleos de Inovação Tecnológica.
+
+RITTER, E. M.; TOLEDO, P., M. e LOTUFO, R. A. (orgs.) 2009. ["Transferência de Tecnologia: estratégias para a estruturação e gestão de Núcleos de Inovação Tecnológica."](https://www.inova.unicamp.br/sites/default/files/documents/Livro%20Transferencia%20de%20tecnologia_0.pdf) Campinas, SP, Komedi, 2009.
+
+ANPROTEC E SEBRAE, 2016. ["Estudo de impacto econômico: segmento de incubadoras de empresas do Brasil."](https://anprotec.org.br/site/wp-content/uploads/2020/06/18072016-Estudo_ANPROTEC_v6.pdf) Brasília, DF.
+
+ANPROTEC e SEBRAE 2016. ["Parques tecnológicos no Brasil. Estudo, análise e proposições."](http://www.al.rs.gov.br/FileRepository/repdcp_m505/ComEspParqTecnologicos/APROTEC.pdf) Brasília, DF.
+
+### Tema 9 - **Políticas Industriais e Transferência de Tecnologia entre regiões e países nos Programas e Acordos de Cooperação Internacional**
+
+Os slides `r icon_style(fontawesome("file-powerpoint", style = "solid"), fill = "red")` podem ser acessados [aqui](https://docs.google.com/presentation/d/10wGs4JPIv8N3V6PDfm_BnKL_TuODrfem/edit?usp=sharing&ouid=104205543849857134427&rtpof=true&sd=true).
+
+DA SILVA, D., H. 2007. [Cooperação internacional em ciência e tecnologia: oportunidades e riscos.](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-73292007000100001&lng=en&nrm=iso&tlng=pt) *Rev. Bras. Polít. Int.* 50 (1): 5-28 [2007].
+
+CHIARINI, T.; SILVA, A. L. 2014. [Comércio de produtos tecnológicos e transferência de tecnologia: análise exploratória do caso brasileiro nas décadas de 1990 e 2010](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.anpec.org.br%2Fencontro%2F2014%2Fsubmissao%2Ffiles_I%2Fi9-21faffbad943ec9a909b07c5f3b15e0f.doc&wdOrigin=BROWSELINK). In: *XLII Encontro Nacional de Economia* -- ANPEC 2014 - Natal, 9 a 12 de dezembro de 2014.
+
+BARRIOS, L. 2014. [O contrato internacional de transferência de tecnologia e o Direito da Concorrência no Brasil: análise à luz da recente jurisprudência do CADE](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiB642h3ZjtAhX3IrkGHcTECvkQFjAAegQIAxAC&url=https%3A%2F%2Frevista.cade.gov.br%2Findex.php%2Frevistadedefesadaconcorrencia%2Farticle%2Fdownload%2F133%2F82&usg=AOvVaw3ZYkoHVGjHMybZHq5OUci2). In: RDC, Vol 2, n°2, Novembro de 2014, pp.117-143.
+
+### Tema 10 - **Presente e Futuro das Políticas Públicas de CT&I no Estado Brasileiro**
+
+Os slides `r icon_style(fontawesome("file-powerpoint", style = "solid"), fill = "red")` podem ser acessados [aqui](https://drive.google.com/drive/u/2/folders/14QLNMH8knWQrVU-zu2dl1fwbXRMV45WI).
+
 ### Sobre a AV1 - Avaliação para composição das notas nos polos
 
-Instruções para elaboração do artigo final nos `r icon_style(fontawesome("file-powerpoint", style = "solid"), fill = "red")` [slides](<https://docs.google.com/presentation/d/1sczARMCF8X5FwXK90Rq-dD1ZRNTyv5Uj/edit?usp=sharing&ouid=104205543849857134427&rtpof=true&sd=true>).
+Instruções para elaboração do artigo final nos `r icon_style(fontawesome("file-powerpoint", style = "solid"), fill = "red")` [slides](https://docs.google.com/presentation/d/1sczARMCF8X5FwXK90Rq-dD1ZRNTyv5Uj/edit?usp=sharing&ouid=104205543849857134427&rtpof=true&sd=true).
