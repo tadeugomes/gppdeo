@@ -86,14 +86,14 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
   <!--radix_placeholder_meta_tags-->
-  <title>GPPDEO - Grupo de Pesquisa/UFMA: Laboratório</title>
+  <title>GPPDEO - Grupo de Pesquisa/UFMA: Laboratório - R</title>
 
   <meta property="description" itemprop="description" content="Introdução à análise de dados"/>
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="GPPDEO - Grupo de Pesquisa/UFMA: Laboratório"/>
+  <meta property="og:title" content="GPPDEO - Grupo de Pesquisa/UFMA: Laboratório - R"/>
   <meta property="og:type" content="article"/>
   <meta property="og:description" content="Introdução à análise de dados"/>
   <meta property="og:locale" content="en_US"/>
@@ -101,14 +101,14 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="GPPDEO - Grupo de Pesquisa/UFMA: Laboratório"/>
+  <meta property="twitter:title" content="GPPDEO - Grupo de Pesquisa/UFMA: Laboratório - R"/>
   <meta property="twitter:description" content="Introdução à análise de dados"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output"]}},"value":[{"type":"character","attributes":{},"value":["Laboratório"]},{"type":"character","attributes":{},"value":["Introdução à análise de dados"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc"]}},"value":[{"type":"logical","attributes":{},"value":[true]}]}]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output"]}},"value":[{"type":"character","attributes":{},"value":["Laboratório - R"]},{"type":"character","attributes":{},"value":["Introdução à análise de dados"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc"]}},"value":[{"type":"logical","attributes":{},"value":[true]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2363,7 +2363,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Laboratório","description":"Introdução à análise de dados","authors":[]}
+{"title":"Laboratório - R","description":"Introdução à análise de dados","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2404,7 +2404,7 @@ Formacao
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Laboratório</h1>
+<h1>Laboratório - R</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
 <p>Introdução à análise de dados</p>
@@ -2417,15 +2417,42 @@ Formacao
 <h3>Contents</h3>
 <ul>
 <li><a href="#introdução">Introdução</a></li>
-<li><a href="#instalação-do-r-e-rstudio">Instalação do R e RStudio</a></li>
-<li><a href="#introdução-ao-r-para-análise-de-dados">Introdução ao R para análise de dados</a></li>
+<li><a href="#motivação">Motivação</a></li>
+<li><a href="#acesso-ao-material-do-laboratório">Acesso ao material do Laboratório</a>
+<ul>
+<li><a href="#rstudio-cloud">Rstudio Cloud</a></li>
+<li><a href="#instalação-local-no-seu-computador">Instalação local (no seu computador)</a></li>
+<li><a href="#devo-instalar-o-r-no-meu-computador">Devo instalar o R no meu computador?</a></li>
+<li><a href="#bibliografia">Bibliografia</a></li>
+</ul></li>
 </ul>
 </nav>
 </div>
 <h1 id="introdução">Introdução</h1>
-<p>Vamos compartilhar neste espaço informações introdutórias sobre análise de dados e suas aplicações na área da gestão.</p>
-<h1 id="instalação-do-r-e-rstudio">Instalação do R e RStudio</h1>
-<p>Em computadores com o sistema operacional Windows, a instalação do R deve seguir algumas etapas para o bom funcionamento do programa.</p>
+<p>Vamos compartilhar aqui informações para as atividades práticas com a linguagem de programação R e como utilizá-la para análise de dados e suas aplicações na área da gestão, sendo nosso ponto de partida para considerar as tecnologias que perpassam os sistemas de informação.</p>
+<h1 id="motivação">Motivação</h1>
+<p>Por que a linguagem <em>R</em>?</p>
+<p>A linguagem R é uma das principais ferramentas do mercado para análise de dados e pode ser utilizada em todo o ciclo de trabalho com dados: coleta, tratamento, processamento, modelagem e comunicação de resultados.</p>
+<p>Bastante utilizada na área acadêmica e no mercado, conta com quase <a href="https://cran.r-project.org/web/packages/">18 mil</a> pacotes desenvolvidos pela comunidade de usuários que ampliam consideravelmente sua funcionalidade.</p>
+<p>Você pode criar <a href="https://rstudio.github.io/distill/">sites</a> com R (como este que estamos usando), <a href="https://xaringan.gallery/examples.html">slides</a>, <a href="https://pkgs.rstudio.com/rticles/">artigos</a>, <a href="https://www.bookdown.org/">livros</a>, <a href="https://pagedown.rbind.io/">relatórios, currículos e cartões de visita</a> e rapidamente realizar <a href="https://github.com/easystats">análises estatísticas</a> e as mais variadas <a href="https://www.r-graph-gallery.com/">visualizações</a> de dados, além da possibilidade de trabalhar com <em>machine learning</em> com os pacotes <a href="https://cran.r-project.org/web/packages/caret/">caret</a> e <a href="https://www.tidymodels.org/">tidymodels</a> e apresentar os resultados em um <a href="https://pkgs.rstudio.com/flexdashboard/">dashboard</a>.</p>
+<p>Algumas outras vantagens:</p>
+<ul>
+<li><p>É gratuita;</p></li>
+<li><p>Tem uma ativa comunidade de desenvolvedores e usuários no mercado e na academia;</p></li>
+<li><p>Dispõe de muitos tutoriais e dicas.</p></li>
+<li><p>Possibilita a automatização de relatórios e rotinas, dentre outras vantagens.</p></li>
+</ul>
+<p>São vantagens, portanto, que ferramentas pagas não apresentam. A flexibilidade e riqueza da linguagem tem um trade off: aprender a linguagem.</p>
+<p><img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" /></p>
+<h1 id="acesso-ao-material-do-laboratório">Acesso ao material do Laboratório</h1>
+<h2 id="rstudio-cloud">Rstudio Cloud</h2>
+<p>O primeiro passo é o acesso ao material do curso e aos recursos do R.</p>
+<p>A maneira mais prática de começar é por meio do <strong>Rstudio Cloud</strong>. Para isso, siga o link <a href="https://rstudio.cloud/" class="uri">https://rstudio.cloud/</a> e crie uma conta.</p>
+<p><a href="https://drive.google.com/file/d/1Il0AUnJdl6feZdAk2XU08IcvMvHJAsjc/view?usp=sharing">Vejam aqui o tutorial para acesso ao Rstudio Cloud e primeiros passos.</a></p>
+<p>Para as atividades do curso, acessem o espaço de trabalho compartilhado do RStudio Cloud <a href="https://rstudio.cloud/project/2641493">aqui</a> e façam uma cópia no ambiente de trabalho de vocês seguindo as orientações do tutorial acima.</p>
+<h2 id="instalação-local-no-seu-computador">Instalação local (no seu computador)</h2>
+<p>Você também pode fazer a instação do R e do Rstudio no seu computador.</p>
+<p>Durante a instalação, caso apareça a opção de <em>adicionar variável de ambiente</em> ao <em>path</em>, marque a opção.</p>
 <p>Faça o download dos programas necessários (cliquem no link para acesso direto aos sites):</p>
 <ul>
 <li><p><a href="https://cran.r-project.org/bin/windows/base/R-4.1.0-win.exe">O R propriamente</a>;</p></li>
@@ -2433,10 +2460,21 @@ Formacao
 <li><p><a href="https://www.rstudio.com/products/rstudio/download/#download">O RStudio</a>.</p></li>
 </ul>
 <p>Na sequência, instale primeiro o R, depois o Rtools e, por fim, o Rstudio.</p>
-<p>Atenção: ao instalar o Rtools, não esqueça de configurar a variável de ambiente, opção que pode aparecer como “Add rtools to system PATH”.</p>
-<p>Uma alternativa à instalação é utilizar o serviço do <a href="https://login.rstudio.cloud/login?redirect=%2Foauth%2Fauthorize%3Fredirect_uri%3Dhttps%253A%252F%252Frstudio.cloud%252Flogin%26client_id%3Drstudio-cloud%26response_type%3Dcode%26show_auth%3D0%26show_login%3D1%26show_setup%3D0&amp;setup=False">Rstudio Cloud</a>. A vantagem é que você pode utilizar de qualquer computador e até mesmo do celular, o que é ótimo para fins didáticos.</p>
-<h1 id="introdução-ao-r-para-análise-de-dados">Introdução ao R para análise de dados</h1>
-<p>Realizamos um minicurso de introdução ao R para alunos do curso de administração da UFMA e do mestrado do Profnit. O material pode ser acessado no link a seguir: <a href="https://tadeugomes.github.io/intro-analise-dados-adm/">Minicurso: Introdução à Análise de Dados (tadeugomes.github.io)</a></p>
+<h2 id="devo-instalar-o-r-no-meu-computador">Devo instalar o R no meu computador?</h2>
+<p>Sugiro que usem o Rstudio Cloud até estarem confortáveis antes da utilização da máquina local, considerando que os recursos na cloud não dependem das condições do computador que estiver em uso (memória e outros possíveis aspectos técnicos) e pode ser acessada pelo celular ou tablet.</p>
+<h2 id="bibliografia">Bibliografia</h2>
+<p>A produção de livros, tutoriais, vídeos e cursos em acesso aberto ensinando a usar o R é vasta, sobretudo em inglês. Sugiro o uso inicial <a href="https://cdr.ibpad.com.br/">deste</a> do IBPAD e o clássico <a href="https://r4ds.had.co.nz/">R para Análise de Dados</a>, disponível também em português.</p>
+<div class="layout-chunk" data-layout="l-body">
+<style type="text/css">
+body {
+
+  text-align: justify;
+
+}
+
+</style>
+</div>
+<p><img src="https://m.media-amazon.com/images/I/51OyQ+JepUL.jpg" style="width:5cm" /></p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

@@ -1,5 +1,5 @@
 ---
-title: "Laboratório"
+title: "Laboratório - R"
 description: Introdução à análise de dados
 output:
   distill::distill_article:
@@ -12,11 +12,49 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Introdução
 
-Vamos compartilhar neste espaço informações introdutórias sobre análise de dados e suas aplicações na área da gestão.
+Vamos compartilhar aqui informações para as atividades práticas com a linguagem de programação R e como utilizá-la para análise de dados e suas aplicações na área da gestão, sendo nosso ponto de partida para considerar as tecnologias que perpassam os sistemas de informação.
 
-# Instalação do R e RStudio
+# Motivação
 
-Em computadores com o sistema operacional Windows, a instalação do R deve seguir algumas etapas para o bom funcionamento do programa.
+Por que a linguagem *R*?
+
+A linguagem R é uma das principais ferramentas do mercado para análise de dados e pode ser utilizada em todo o ciclo de trabalho com dados: coleta, tratamento, processamento, modelagem e comunicação de resultados.
+
+Bastante utilizada na área acadêmica e no mercado, conta com quase [18 mil](https://cran.r-project.org/web/packages/) pacotes desenvolvidos pela comunidade de usuários que ampliam consideravelmente sua funcionalidade.
+
+Você pode criar [sites](https://rstudio.github.io/distill/) com R (como este que estamos usando), [slides](https://xaringan.gallery/examples.html), [artigos](https://pkgs.rstudio.com/rticles/), [livros](https://www.bookdown.org/), [relatórios, currículos e cartões de visita](https://pagedown.rbind.io/) e rapidamente realizar [análises estatísticas](https://github.com/easystats) e as mais variadas [visualizações](https://www.r-graph-gallery.com/) de dados, além da possibilidade de trabalhar com *machine learning* com os pacotes [caret](https://cran.r-project.org/web/packages/caret/) e [tidymodels](https://www.tidymodels.org/) e apresentar os resultados em um [dashboard](https://pkgs.rstudio.com/flexdashboard/).
+
+Algumas outras vantagens:
+
+-   É gratuita;
+
+-   Tem uma ativa comunidade de desenvolvedores e usuários no mercado e na academia;
+
+-   Dispõe de muitos tutoriais e dicas.
+
+-   Possibilita a automatização de relatórios e rotinas, dentre outras vantagens.
+
+São vantagens, portanto, que ferramentas pagas não apresentam. A flexibilidade e riqueza da linguagem tem um trade off: aprender a linguagem.
+
+![](https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif)
+
+# Acesso ao material do Laboratório
+
+## Rstudio Cloud
+
+O primeiro passo é o acesso ao material do curso e aos recursos do R.
+
+A maneira mais prática de começar é por meio do **Rstudio Cloud**. Para isso, siga o link <https://rstudio.cloud/> e crie uma conta.
+
+[Vejam aqui o tutorial para acesso ao Rstudio Cloud e primeiros passos.](https://drive.google.com/file/d/1Il0AUnJdl6feZdAk2XU08IcvMvHJAsjc/view?usp=sharing)
+
+Para as atividades do curso, acessem o espaço de trabalho compartilhado do RStudio Cloud [aqui](https://rstudio.cloud/project/2641493) e façam uma cópia no ambiente de trabalho de vocês seguindo as orientações do tutorial acima.
+
+## Instalação local (no seu computador)
+
+Você também pode fazer a instação do R e do Rstudio no seu computador.
+
+Durante a instalação, caso apareça a opção de *adicionar variável de ambiente* ao *path*, marque a opção.
 
 Faça o download dos programas necessários (cliquem no link para acesso direto aos sites):
 
@@ -28,10 +66,21 @@ Faça o download dos programas necessários (cliquem no link para acesso direto 
 
 Na sequência, instale primeiro o R, depois o Rtools e, por fim, o Rstudio.
 
-Atenção: ao instalar o Rtools, não esqueça de configurar a variável de ambiente, opção que pode aparecer como "Add rtools to system PATH".
+## Devo instalar o R no meu computador?
 
-Uma alternativa à instalação é utilizar o serviço do [Rstudio Cloud](https://login.rstudio.cloud/login?redirect=%2Foauth%2Fauthorize%3Fredirect_uri%3Dhttps%253A%252F%252Frstudio.cloud%252Flogin%26client_id%3Drstudio-cloud%26response_type%3Dcode%26show_auth%3D0%26show_login%3D1%26show_setup%3D0&setup=False). A vantagem é que você pode utilizar de qualquer computador e até mesmo do celular, o que é ótimo para fins didáticos.
+Sugiro que usem o Rstudio Cloud até estarem confortáveis antes da utilização da máquina local, considerando que os recursos na cloud não dependem das condições do computador que estiver em uso (memória e outros possíveis aspectos técnicos) e pode ser acessada pelo celular ou tablet.
 
-# Introdução ao R para análise de dados
+## Bibliografia
 
-Realizamos um minicurso de introdução ao R para alunos do curso de administração da UFMA e do mestrado do Profnit. O material pode ser acessado no link a seguir: [Minicurso: Introdução à Análise de Dados (tadeugomes.github.io)](https://tadeugomes.github.io/intro-analise-dados-adm/)
+A produção de livros, tutoriais, vídeos e cursos em acesso aberto ensinando a usar o R é vasta, sobretudo em inglês. Sugiro o uso inicial [deste](https://cdr.ibpad.com.br/) do IBPAD e o clássico [R para Análise de Dados](https://r4ds.had.co.nz/), disponível também em português.
+
+```{css}
+body {
+
+  text-align: justify;
+
+}
+
+```
+
+![](https://m.media-amazon.com/images/I/51OyQ+JepUL.jpg){width="5cm"}
