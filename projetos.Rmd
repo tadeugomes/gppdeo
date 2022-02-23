@@ -1,6 +1,9 @@
 ---
 title: "Projetos"
 description: Projetos recentes finalizados
+output:
+  distill::distill_article:
+    css: "strapless.css"
 ---
 
 ```{r setup, include=FALSE}
@@ -10,8 +13,9 @@ library(readr)
 ```
 
 ```{r}
-projetos <- read_delim("dados/projeto.csv", 
-    delim = ";", escape_double = FALSE, trim_ws = TRUE,show_col_types = FALSE)
+projetos <- library(readr)
+projetos <- read_csv("dados/projetos.csv")
+
 
 ```
 
@@ -23,13 +27,24 @@ projetos %>%
     text = text,
     image = image,
     link = link, 
-    width = 4, 
-    label_colour = '#00f8ff59', 
+    label_colour = c("#d6caddaa", "#00f8ff59", "#c4d8e2aa"), 
     tags = tag, 
     border_colour = 'gray',
-    layout = "label-left"
+    layout = "label-below", 
+    breakpoint = 1, 
+    width = 4,
 
   )
 ```
 
+
+
+```{css}
+body {
+
+  text-align: justify;
+
+}
+
+```
 
