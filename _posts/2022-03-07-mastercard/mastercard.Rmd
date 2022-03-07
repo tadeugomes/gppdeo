@@ -227,7 +227,9 @@ master_clean %>%
 
  
 
-Quando o foco são os bigramas, a frequência associada de palavras indica um movimento interesse: formam-se segumentos de discussão relacionados aos sistemas de pagamento, indicações que Rússia teria errado em seus cálculos e comitido "suicídio", considerando todo o contexto das sanções internacionais, e também a presença das criptomoedas nas discussões. Apesar de meios de pagamento diversos, há uma tendência de massificação - pelo menos no Twitter - sobre o papel das criptomoedas (que poderiam ser uma alternativa à Russia, mas com indicações no contexto de também serem acionadas como parte das sanções econômicas).
+Quando o foco são os bigramas, a frequência associada de palavras indica um movimento interessante: formam-se segumentos de discussão relacionados aos sistemas de pagamento; indicações que a Rússia teria errado em seus cálculos e comitido "suicídio", considerando todo o contexto das sanções internacionais; e a presença das criptomoedas nos comentários.
+
+Apesar de meios de pagamento diferentes, há uma tendência de massificação  - pelo menos no Twitter - sobre o papel das criptomoedas (que poderiam ser uma alternativa à Russia, mas com indicações no contexto de também serem acionadas como parte das sanções econômicas).
 
 ```{r}
 
@@ -270,7 +272,6 @@ master_freq %>%
   theme_bw()
 ```
 
- 
 
 ### Uso de hashtags
 
@@ -321,13 +322,13 @@ wordcloud2(words, color='random-dark')
 
 ## Análise de sentimentos
 
-A análise de sentimentos permite mapear como as postagens repercutiram a decisão empresarial: foi positivo? Foi negativo?
+A análise de sentimentos permite mapear como as postagens repercutiram a decisão empresarial: foi positivo? foi negativo?
 
 Na figura, observa-se claramente os polos dos sentimentos positivos e negativos.
 
 No polo positivo, os comentários são favoráveis à decisão da empresa e apresenta em destaque palavras sobre suporte à Ucrânia, solidariedade e apoio à decisão de suspensão das operações.
 
-No polo negativo, os sentimentos são condenação à Rússia e ao Putin em várias frentes, inclusive com um tom de torcida contra as ações bélicas presente em palavras como lose, killer, suicide.
+No polo negativo, os sentimentos são condenações à Rússia e ao Putin em várias frentes, inclusive com um tom de torcida contra as ações bélicas presente em palavras como lose, killer, suicide.
 
 ```{r}
 library(reshape2)
@@ -373,7 +374,7 @@ senti_words %>%
 
 ### Conclusão
 
-A decisão da Mastercard em suspender as operações na Rússia foi aprovada pela maioria dos usuários do Twitter da amostra de dados coletados.
+A decisão da Mastercard em suspender as operações na Rússia foi aprovada pela maioria dos usuários do Twitter na amostra de dados coletados.
 
 Referências
 
