@@ -1,5 +1,5 @@
 ---
-title: "Pibic à distância: é possível?"
+title: "Pibic a distância: é possível?"
 description: |
   Mesa debateu o tema na Universidade Federal de Alagoas
 author:
