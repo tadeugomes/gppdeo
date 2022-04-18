@@ -1,0 +1,36 @@
+---
+title: "Pibic à distância: é possível?"
+description: |
+  Mesa debateu o tema na Universidade Federal de Alagoas
+author:
+  - name: Tadeu Gomes Teixeira
+    url: {}
+date: 2022-04-18
+preview: preview.jpeg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+O ensino à distancia é uma realidade e precisamos de ações para que seja bem realizado.
+
+Assumi a tarefa de coordenar um Projeto Piloto de Iniciação Científica na modalidade remota durante a pandemia.
+
+Apesar de ser um entusiasta da educação à distância (bem elaborada, implementada etc.), essa não é minha área de pesquisa ou trabalho diretamente, então encarei a proposta na lógica da gestão de projetos.
+
+A parceria entre CAPES e Universidade Aberta do Brasil (UAB) no UFMA para testar o piloto teve início em maio de 2020 e foi finalizado em junho de 2021.
+
+Nossos resultados, erros e recomendações foram encaminhados para a CAPES para auxiliar no processo de formulação do edital a ser publicado pela agência para que os polos da UAB possam implantar a modalidade. Nossos resultados estão [disponíveis no site do projeto, incluindo os relatórios, mostra virtual com os trabalhos dos alunos e artigos.](https://pibicuabmaranhao.com.br/sobre-o-projeto/)
+
+No dia 08 de abril a [Universidade Federal de Alagoas (UFAL) realizou uma mesa para debater o tema](https://ufal.br/estudante/noticias/2022/4/pesquisa-na-modalidade-a-distancia-e-tema-de-evento-na-sexta-feira-8), da qual participei com o relato do processo de formulação, implantação e recomendações do Projeto Piloto de Iniciação Científica para a CAPES.
+
+No vídeo abaixo é possível acompanhar a apresentação e o diálogo com os participantes.[\
+](https://youtu.be/9qpkRqkQ33s?t=2823)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9qpkRqkQ33s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
