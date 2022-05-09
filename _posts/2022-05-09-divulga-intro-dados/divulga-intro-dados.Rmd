@@ -1,0 +1,68 @@
+---
+title: "Leitura com Dados"
+description: |
+  Projeto aberto à comunidade da UFMA
+author:
+  - name: Tadeu Gomes Teixeira
+    url: {}
+date: 2022-05-09
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+O projeto **Leitura com Dados**, iniciativa do grupo de pesquisa GPPDEO, está com inscrições abertas.
+
+##### **Objetivo do projeto**
+
+O objetivo do projeto é debater livros e artigos da área de dados que possam contribuir para a compreensão do processo de formação discente em áreas emergentes como análise de dados, machine learning e suas interfaces e aplicações.
+
+Isso abarca temáticas como visualização de dados, obras de divulgação estatística e de inteligência artificial, programação, impactos sociais e corporativos, dentre outros.
+
+##### **Dinâmica dos encontros**
+
+O professor-facilitador iniciará a apresentação da obra e autores escolhidos para o encontro quinzenal. Mas \#issonãoéumaaulaexpositiva, logo, a ideia é CONVERSAR sobre o tema, com café e chá. Isso exige, obrigatoriamente, leitura do texto/livro/capítulo.
+
+-   **Periodicidade dos encontros:** Quinzenal.
+
+-   **Horário:** Sextas-feiras, das 8h às 10h
+
+-   **Local:** UFMA - Prédio do CSSO (detalhes serão enviados por e-mail)
+
+-   **Vagas:** Até 40 vagas
+
+-   **Público-alvo:** membros do grupo de pesquisa e alunos da UFMA.
+
+-   **Início:** 27 de maio
+
+-   **Inscrições:** Até 27 de maio
+
+##### Inscrições
+
+[Para se inscrever, clique no link e preencha o formulário: ](https://docs.google.com/forms/d/e/1FAIpQLScerOShvRiw_l188mS57idDdMuBNyNh8Z9kZ3yZN9xPc4BE5g/viewform)
+
+[Inscrição no projeto Leitura com Dados (google.com)](https://docs.google.com/forms/d/e/1FAIpQLScerOShvRiw_l188mS57idDdMuBNyNh8Z9kZ3yZN9xPc4BE5g/viewform)
+
+##### **Leitura Inicial **
+
+KNAFLIC, Cole Nussbaumer. **Storytelling com dados**: um guia sobre visualização de dados para profissionais de negócios. São Paulo: Alta Books, 2019.
+
+Leitura dos três capítulos iniciais para o dia 27 de maio.
+
+![](https://m.media-amazon.com/images/I/41GsgCsHF6L._SY346_.jpg){width="4.2cm" height="6cm"}
+
+```{css}
+
+
+body {
+
+  text-align: justify;
+
+}
+
+
+```
