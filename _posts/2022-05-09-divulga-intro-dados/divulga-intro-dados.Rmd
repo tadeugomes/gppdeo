@@ -1,11 +1,12 @@
 ---
 title: "Leitura com Dados"
 description: |
-  Projeto aberto à comunidade da UFMA
+  Projeto aberto para discentes da UFMA de qualquer curso
 author:
   - name: Tadeu Gomes Teixeira
     url: {}
 date: 2022-05-09
+preview: preview.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -43,11 +44,11 @@ O professor-facilitador iniciará a apresentação da obra e autores escolhidos 
 
 ##### Inscrições
 
-[Para se inscrever, clique no link e preencha o formulário: ](https://docs.google.com/forms/d/e/1FAIpQLScerOShvRiw_l188mS57idDdMuBNyNh8Z9kZ3yZN9xPc4BE5g/viewform)
+[Para se inscrever, clique no link e preencha o formulário:](https://docs.google.com/forms/d/e/1FAIpQLScerOShvRiw_l188mS57idDdMuBNyNh8Z9kZ3yZN9xPc4BE5g/viewform)
 
 [Inscrição no projeto Leitura com Dados (google.com)](https://docs.google.com/forms/d/e/1FAIpQLScerOShvRiw_l188mS57idDdMuBNyNh8Z9kZ3yZN9xPc4BE5g/viewform)
 
-##### **Leitura Inicial **
+##### **Leitura Inicial** 
 
 KNAFLIC, Cole Nussbaumer. **Storytelling com dados**: um guia sobre visualização de dados para profissionais de negócios. São Paulo: Alta Books, 2019.
 
@@ -66,3 +67,11 @@ body {
 
 
 ```
+
+#### Baixe o folder com mais informações
+
+<iframe src="https://drive.google.com/file/d/1lVcUOytZ3OO04oQTw5K917Y2RETSaVU_/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+<meta charset="UTF-8">
+

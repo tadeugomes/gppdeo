@@ -1,0 +1,67 @@
+---
+title: "Introdução à anàlise de dados com Python"
+description: |
+  Projeto para alunos da área de Gestão
+author:
+  - name: Tadeu Gomes Teixeira
+    url: {}
+date: 2022-05-09
+preview: preview.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+
+O projeto **Introdução à análise de dados com Python**, organizado por este grupo, está com inscrições abertas.
+
+**Objetivo**
+
+Desenvolver as habilidades fundamentais para análise 
+de dados com a linguagem Python com aplicações nas áreas de Gestão.
+
+**Dinâmica dos Encontros**
+
+Aulas nos laboratórios da UFMA.
+
+-   **Periodicidade:** Quinzenal.
+
+-   **Horário:** Sextas-feiras, das 8h às 12h
+
+-   **Local:** UFMA -- Laboratório do CCSO ou Paulo Freire
+
+-   **Vagas:** 30 vagas
+
+-   **Público-alvo:** membros atuais do grupo e alunos do DECCA.
+
+-   **Início:** 03 de junho
+
+-   **Fim**: dezembro de 2022
+
+-   **Inscrições:** Até 27 de maio
+
+#### Inscrições
+
+As inscrições devem ser feitas no formulário a seguir:
+
+[inscrição para participação no minicurso Introdução à análise de dados com Python (google.com)](https://docs.google.com/forms/d/e/1FAIpQLScLNwu-I0OqbgxxtnKNJemKx6ag0LDweodK5swTlZFLOiPt0g/viewform)
+
+```{css}
+
+body {
+
+text-align: justify;
+
+}
+```
+
+#### Baixe o folder com mais informações 
+
+<iframe src="https://drive.google.com/file/d/1dy4UbxLv8Q_zwJd3eYAtXQpY4AYm1eC1/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<meta charset="utf-8">
+

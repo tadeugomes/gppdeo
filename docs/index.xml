@@ -12,9 +12,19 @@
       <title>Leitura com Dados</title>
       <dc:creator>Tadeu Gomes Teixeira</dc:creator>
       <link>https://gppdeo.org/posts/2022-05-09-divulga-intro-dados</link>
-      <description>Projeto aberto à comunidade da UFMA</description>
+      <description>Projeto aberto para discentes da UFMA de qualquer curso</description>
       <guid>https://gppdeo.org/posts/2022-05-09-divulga-intro-dados</guid>
       <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://gppdeo.org/posts/2022-05-09-divulga-intro-dados/preview.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Introdução à anàlise de dados com Python</title>
+      <dc:creator>Tadeu Gomes Teixeira</dc:creator>
+      <link>https://gppdeo.org/posts/2022-05-09-divulga-mini-python</link>
+      <description>Projeto para alunos da área de Gestão</description>
+      <guid>https://gppdeo.org/posts/2022-05-09-divulga-mini-python</guid>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://gppdeo.org/posts/2022-05-09-divulga-mini-python/preview.png" medium="image" type="image/png" width="225" height="225"/>
     </item>
     <item>
       <title>Pibic a distância: é possível?</title>
