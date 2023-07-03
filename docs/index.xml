@@ -7,14 +7,14 @@
     <description>Data Science, Políticas Públicas e Gestão
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>2022-05-09</lastBuildDate>
     <item>
       <title>Leitura com Dados</title>
       <dc:creator>Tadeu Gomes Teixeira</dc:creator>
       <link>https://gppdeo.org/posts/2022-05-09-divulga-intro-dados</link>
       <description>Projeto aberto para discentes da UFMA de qualquer curso</description>
       <guid>https://gppdeo.org/posts/2022-05-09-divulga-intro-dados</guid>
-      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>2022-05-09</pubDate>
       <media:content url="https://gppdeo.org/posts/2022-05-09-divulga-intro-dados/preview.jpg" medium="image" type="image/jpeg"/>
     </item>
     <item>
@@ -23,7 +23,7 @@
       <link>https://gppdeo.org/posts/2022-05-09-divulga-mini-python</link>
       <description>Projeto para alunos da área de Gestão</description>
       <guid>https://gppdeo.org/posts/2022-05-09-divulga-mini-python</guid>
-      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>2022-05-09</pubDate>
       <media:content url="https://gppdeo.org/posts/2022-05-09-divulga-mini-python/preview.png" medium="image" type="image/png" width="225" height="225"/>
     </item>
     <item>
@@ -32,7 +32,7 @@
       <link>https://gppdeo.org/posts/2022-04-18-palestra-pibic</link>
       <description>Mesa debateu o tema na Universidade Federal de Alagoas</description>
       <guid>https://gppdeo.org/posts/2022-04-18-palestra-pibic</guid>
-      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>2022-04-18</pubDate>
       <media:content url="https://gppdeo.org/posts/2022-04-18-palestra-pibic/preview.jpeg" medium="image" type="image/jpeg"/>
     </item>
     <item>
@@ -41,7 +41,7 @@
       <link>https://gppdeo.org/posts/2022-03-07-mastercard</link>
       <description>Maioria apoia decisao</description>
       <guid>https://gppdeo.org/posts/2022-03-07-mastercard</guid>
-      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>2022-03-07</pubDate>
       <media:content url="https://gppdeo.org/posts/2022-03-07-mastercard/preview.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>
@@ -50,7 +50,7 @@
       <link>https://gppdeo.org/posts/2021-11-04-sead</link>
       <description>Evento aconteceu na modalidade online</description>
       <guid>https://gppdeo.org/posts/2021-11-04-sead</guid>
-      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>2021-11-04</pubDate>
       <media:content url="https://gppdeo.org/posts/2021-11-04-sead/images/Simplicio.jpeg" medium="image" type="image/jpeg"/>
     </item>
     <item>
@@ -59,7 +59,7 @@
       <link>https://gppdeo.org/posts/2021-07-22-pandemia-no-ma</link>
       <description>Impactos da pandemia da Covid-19 no mercado de trabalho maranhense</description>
       <guid>https://gppdeo.org/posts/2021-07-22-pandemia-no-ma</guid>
-      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>2021-07-22</pubDate>
       <media:content url="https://gppdeo.org/posts/2021-07-22-pandemia-no-ma/covid_salario_plot_ma.png" medium="image" type="image/png" width="960" height="523"/>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <link>https://gppdeo.org/posts/2021-07-07-correios</link>
       <description>Novamente o debate sobre a privatização dos Correios</description>
       <guid>https://gppdeo.org/posts/2021-07-07-correios</guid>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>2021-07-07</pubDate>
       <media:content url="http://books.scielo.org/id/28w3s/cover/cover.jpeg" medium="image" type="image/jpeg"/>
     </item>
     <item>
@@ -77,7 +77,7 @@
       <link>https://gppdeo.org/posts/2021-04-17-selecaoestudantes</link>
       <description>Informações sobre o processo seletivo para novos integrantes</description>
       <guid>https://gppdeo.org/posts/2021-04-17-selecaoestudantes</guid>
-      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>2021-04-17</pubDate>
       <media:content url="https://gppdeo.org/posts/2021-04-17-selecaoestudantes/preview.jpeg" medium="image" type="image/jpeg"/>
     </item>
     <item>
@@ -86,7 +86,7 @@
       <link>https://gppdeo.org/posts/2021-04-13-desemprego-no-maranho</link>
       <description>Rápido olhar sobre o mercado de trabalho maranhense</description>
       <guid>https://gppdeo.org/posts/2021-04-13-desemprego-no-maranho</guid>
-      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>2021-04-13</pubDate>
       <media:content url="https://gppdeo.org/posts/2021-04-13-desemprego-no-maranho/desemprego-no-maranho_files/figure-html5/unnamed-chunk-4-1.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>
@@ -95,7 +95,7 @@
       <link>https://gppdeo.org/posts/welcome</link>
       <description>Sejam bem vindos ao nosso blog!</description>
       <guid>https://gppdeo.org/posts/welcome</guid>
-      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>2021-03-28</pubDate>
       <media:content url="https://gppdeo.org/posts/welcome/preview.png" medium="image" type="image/png" width="500" height="500"/>
     </item>
   </channel>
